@@ -1,0 +1,31 @@
+[33mc0c4c1d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mkhanhbk[m[33m, [m[1;31mupstream/qat[m[33m, [m[1;31mupstream/phuoclh[m[33m)[m fix src 24/6
+[33mf95ca30[m FIX SRC
+[33md59b88a[m [Admin] - Thống kê
+[33mf065b2b[m so sanh san pham ( chua xong nha moi nguoi )
+[33ma39560e[m [CLIENT/BE]- Đánh giá và yêu thích
+[33mbfad680[m [CLIENT] - FLASHSAE
+[33m31b84e8[m Update zustand
+[33md63fd38[m [Admin - Client] Hỏi đáp sản phẩm Up
+[33md5453c0[m FIX SRC
+[33m7498561[m Fix src
+[33mea6aed4[m Merge branch 'dev/nhut' of https://github.com/khainq2305/BACKEND_WEBSITEBANDOCONGNGHE into dev/nhut
+[33m54ba9ee[m Fix src
+[33m83ce48a[m [Admin-Client] - Quản lí thông báo (full)
+[33m711d1a8[m [ADMIN] - Bình luận lần 1
+[33me0c08e6[m Fix src
+[33m1796a46[m Fix merge code 07/06/2025
+[33m608c95f[m Không biết commit
+[33mf7b4fe3[m FIX SRC
+[33mf91a7f6[m [ADMIN]- CRUD mã giảm giá
+[33mba83a90[m [ADMIN] cập nhật routes post, postCategory
+[33mf012b6c[m [CLIENT] Tích hợp UI/UX và logic cho tính năng Yêu thích sản phẩm
+[33m8293e18[m [CLIENT] - ĐỔ GIAO DIỆN TRANG SẢN PHẨM THEO DANH MỤC
+[33m1b09913[m [Admin] Cập nhật quản lý thương hiệu
+[33m42bff7c[m[33m ([m[1;31morigin/qat[m[33m)[m FIX SRC 27/05
+[33m07165f9[m FIX SRC
+[33m851f41d[m Update src
+[33m04a4f5d[m Fix src
+[33m1a86820[m [ADMIN] - Quản lý sản phẩm
+[33m00c965e[m Update src
+[33m2ae12a7[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Update Src
+[33mb32172e[m first commit
